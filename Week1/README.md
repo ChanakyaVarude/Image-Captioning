@@ -17,5 +17,5 @@ Thus the best classifiers are from the ensemble methods namely RandomForest and 
 
 **Submission Result**
 ---
-**• Submission accepted**
+**• Submission accepted**</br>
 **• Assignment 2:** https://drive.google.com/file/d/1aQ62-UioJ5y-aKBXhk5TutvDl7uhv-ZW/view?usp=sharing
